@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-table-padding",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This plugin helps you to add paddings to your tables easily :)",
   "main": "tailwind-table-padding.js",
   "scripts": {
