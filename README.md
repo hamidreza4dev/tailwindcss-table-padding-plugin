@@ -10,7 +10,7 @@ module.exports = {
   theme: {
     extend: {},
   },
-  plugins: [require('./tailwind-table-padding')],
+  plugins: [require('tailwind-table-padding')],
 };
 ```
 
@@ -64,6 +64,6 @@ module.exports = {
       3: '3rem',
     },
   },
-  plugins: [require('./tailwind-table-padding')],
+  plugins: [require('tailwind-table-padding')],
 };
 ```
